@@ -1,0 +1,90 @@
+{
+  "share": [
+    {
+      "id": 1,
+      "shareName": "HCL",
+      "sharePrice": 500,
+      "aboutCompany": "HCL Technologies is an Indian multinational information technology (IT) services and consulting company, headquartered in Noida, Uttar Pradesh, India. It is a subsidiary of HCL Enterprise. ",
+      "managingDirector": "Shiv Nadar",
+      "logoImg": "https://groww.in/stocks/jk-cement-ltd"
+    },
+    {
+      "id": 2,
+      "shareName": "Tata Steel",
+      "sharePrice": 1000,
+      "aboutCompany": "Tata Steel Limited is an Indian multinational steel-making company based in Jamshedpur, Jharkhand, and is headquartered in Mumbai, Maharashtra, India. It is a subsidiary of the Tata Group. ",
+      "managingDirector": "Narendran",
+      "logoImg": "https://assets-netstorage.groww.in/stock-assets/logos/INE081A01012.png"
+    },
+    {
+      "id": 3,
+      "shareName": "JK Cement",
+      "sharePrice": 200,
+      "aboutCompany": "JK Cement has over four decades of experience in cement manufacturing. We have integrated cement manufacturing plants and split grinding units, which are strategically located near our limestone mines and are well connected to the end-markets by road and rail networks.",
+      "managingDirector": "JayaKrishna",
+      "logoImg": "https://groww.in/stocks/jk-cement-ltd"
+    },
+    {
+      "id": 4,
+      "shareName": "Hinduja Global",
+      "sharePrice": 200,
+      "aboutCompany": "Hinduja Global Solutions is a global business process management company focused on enhancing the customer experience through every touch point in the customer journey.",
+      "managingDirector": "Hinduja",
+      "logoImg": "https://groww.in/stocks/jk-cement-ltd"
+    },
+    {
+      "id": 5,
+      "shareName": "TCS",
+      "sharePrice": 1500,
+      "aboutCompany": "TCS  is an Indian multinational information technology (IT) services and consulting company, headquartered in Noida, Uttar Pradesh, India. It is a subsidiary of HCL Enterprise. ",
+      "managingDirector": "Ratan Tata",
+      "logoImg": "https://groww.in/stocks/jk-cement-ltd"
+    },
+    {
+      "id": 6,
+      "shareName": "Infosys",
+      "sharePrice": 800,
+      "aboutCompany": "Infosys Technologies is an Indian multinational information technology (IT) services and consulting company, headquartered in Noida, Uttar Pradesh, India. It is a subsidiary of HCL Enterprise. ",
+      "managingDirector": "Vishal Sikka",
+      "logoImg": "https://groww.in/stocks/jk-cement-ltd"
+    },
+    {
+      "id": 7,
+      "shareName": "Devyani",
+      "sharePrice": 100,
+      "aboutCompany": "Devyani Technologies is an Indian multinational information technology (IT) services and consulting company, headquartered in Noida, Uttar Pradesh, India. It is a subsidiary of HCL Enterprise. ",
+      "managingDirector": "Vishal Sikka",
+      "logoImg": "https://groww.in/stocks/jk-cement-ltd"
+    },
+    {
+      "id": 8,
+      "shareName": "Zomato",
+      "sharePrice": 1800,
+      "aboutCompany": "Zomato Technologies is an Indian multinational information technology (IT) services and consulting company, headquartered in Noida, Uttar Pradesh, India. It is a subsidiary of HCL Enterprise. ",
+      "managingDirector": "Vishal Sikka",
+      "logoImg": "https://groww.in/stocks/jk-cement-ltd"
+    },
+    {
+      "id": 9,
+      "shareName": "exxaro",
+      "sharePrice": 1000,
+      "aboutCompany": "exaaro Technologies is an Indian multinational information technology (IT) services and consulting company, headquartered in Noida, Uttar Pradesh, India. It is a subsidiary of HCL Enterprise. ",
+      "managingDirector": "Vishal Sikka",
+      "logoImg": "https://groww.in/stocks/jk-cement-ltd"
+    }
+  ],
+  "users": [
+    {
+      "firstName": "moni",
+      "lastName": "kumar",
+      "email": "Ramco@gmail.comn",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 1
+    }
+  ],
+  "userorders": [
+   
+  ]
+}
